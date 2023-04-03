@@ -7,10 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>로그인</h1>
-	<form>
-		id <input type="text">
-		pass <input type="password">
-	</form>
+
 </body>
 </html>
